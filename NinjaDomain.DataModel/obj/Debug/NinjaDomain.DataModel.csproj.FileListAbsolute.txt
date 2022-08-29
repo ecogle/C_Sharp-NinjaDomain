@@ -1,4 +1,3 @@
-C:\Users\ecogl\NinjaDomain_PluralSight\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.dll.config
 C:\Users\ecogl\NinjaDomain_PluralSight\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.dll
 C:\Users\ecogl\NinjaDomain_PluralSight\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.pdb
 C:\Users\ecogl\NinjaDomain_PluralSight\Ninja.Module2Demo\NinjaDomain.DataModel\bin\Debug\EntityFramework.dll
