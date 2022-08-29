@@ -1,0 +1,6 @@
+C:\Users\ecogl\NinjaDomain_PluralSight\Ninja.Module2Demo\NinjaDomain.Classes\bin\Debug\NinjaDomain.Classes.dll
+C:\Users\ecogl\NinjaDomain_PluralSight\Ninja.Module2Demo\NinjaDomain.Classes\bin\Debug\NinjaDomain.Classes.pdb
+C:\Users\ecogl\NinjaDomain_PluralSight\Ninja.Module2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.csproj.AssemblyReference.cache
+C:\Users\ecogl\NinjaDomain_PluralSight\Ninja.Module2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.csproj.CoreCompileInputs.cache
+C:\Users\ecogl\NinjaDomain_PluralSight\Ninja.Module2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.dll
+C:\Users\ecogl\NinjaDomain_PluralSight\Ninja.Module2Demo\NinjaDomain.Classes\obj\Debug\NinjaDomain.Classes.pdb
